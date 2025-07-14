@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **I type Faster Than I Talk**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:)</h3>
 <p align="left">
 <a href="https://twitter.com/adityab3108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adityab3108" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aditya bajaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya bajaj" height="30" width="40" /></a>
