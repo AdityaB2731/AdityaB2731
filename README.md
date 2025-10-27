@@ -5,6 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityab2731" alt="adityab2731" /></a> </p>
 
+
 - 🔭 I’m currently working on **AI/ML and Full Stack Projects**
 
 - 🌱 I’m currently learning **GenAI and Machine Learning**
@@ -32,7 +33,13 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityab2731&show_icons=true&locale=en&layout=compact" alt="adityab2731" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityab2731&show_icons=true&locale=en" alt="adityab2731" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityab2731&" alt="adityab2731" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityab2731&show_icons=true&locale=en" alt="adityab2731" /></p>
+
+<p align="left">
+  <a href="https://holopin.io/@adityab2731" target="blank">
+    <img src="https://holopin.me/adityab2731" alt="@adityab2731's Holopin badges" />
+  </a>
+</p>
 
